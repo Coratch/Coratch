@@ -21,7 +21,6 @@ I enjoy building practical developer tools, static web applications, and automat
 ### 📫 Contact
 
 * GitHub: [Coratch](https://github.com/Coratch)
-* Blog: [coratch-blog.pages.dev](https://coratch-blog.pages.dev)
 
 
 <!--
